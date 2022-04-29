@@ -28,7 +28,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg"
             alt="electron" width="40" height="40" title="Electron" />
     </a>
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <a style="background-color: '#fff';" href="https://expressjs.com" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
             alt="express" width="40" height="40" title="Express" />
     </a>
