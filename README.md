@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Christopher</h1>
 <h3 align="center">a dev from Austria</h3>
 
-- 🔭 I’m currently working on [pw-simplified](https://github.com/chrisitopherus/pw-simplified) [ws-roomified](https://github.com/chrisitopherus/ws-roomified)
+- 🔭 I’m currently working on [pw-simplified](https://github.com/chrisitopherus/pw-simplified) | [ws-roomified](https://github.com/chrisitopherus/ws-roomified)
 
 - 🌱 I’m currently learning **Svelte and React**
 
