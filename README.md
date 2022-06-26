@@ -86,6 +86,6 @@
     </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zitzennuggler&show_icons=true&locale=en&layout=compact" alt="zitzennuggler" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisitopherus&show_icons=true&locale=en&layout=compact" alt="chrisitopherus" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zitzennuggler&show_icons=true&locale=en" alt="zitzennuggler" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisitopherus&show_icons=true&locale=en" alt="chrisitopherus" /></p>
